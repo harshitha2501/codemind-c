@@ -7,5 +7,5 @@ int main()
     if(n%km==0)
     printf("%d",n/km);
     else
-    printf("%d",n/km+1);
+    printf("%d",n/km + 1);
 }
